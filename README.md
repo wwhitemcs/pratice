@@ -1,3 +1,3 @@
 # pratice
 practice
-<h1>This is just the biggining</h1>
+<h1>This is just the beginning</h1>
