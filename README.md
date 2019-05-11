@@ -7,3 +7,5 @@ practice
 <p>Those were examples of differente header sizes where this is an example of the paragraph section</p>
 <!-- here is an example of a comment that wont show when the code is ran -->
 <!-- even if you put a header in the comment, it wont show such as <h1>Testing</h1> -->
+<!-- Search Engine Optimization (SEO) and accessibility is helped by html5
+The main HTML5 tag helps search engines and other developers find the main content of your page-->
